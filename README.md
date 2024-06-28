@@ -2,6 +2,9 @@
 
 Foi feito um Swagger com todas as rotas funcionando perfeitamente para testes, recomendo ultilizar o Swagger para realização dos testes dessa aplicação, ela fornece tudo que é possivel fazer no app. Porfavor olhar as Observações Importantes desse README.
 
+Swagger
+- https://backend-challenge-e59m.onrender.com/api#/
+
 # Backend-challenge
 
 Desafio para uma vaga de backend Node, a função é desenvolver um CRUD de um banco, onde deve ser possivel criar uma conta, registrar pagamentos, gerar relatorio de pagamentos e fazer upload de imagens relacionados com o pagamento. Todos os endpoints dessa CRUD são consumidos por um usuário autenticado.
